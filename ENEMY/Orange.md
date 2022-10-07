@@ -8,15 +8,29 @@ Country Orange is a peer threat armed with eastern military equipment.
 
 #### Ground
 - 21st Corps:
-- - 222nd Mechanized Infantry Division: 221st Brigade (3x BNs), 223rd Brigade (3x BNs)
+- - 222nd Mechanized Infantry Division: 
+- - - 221st Mech Inf Brigade (3x BNs + 1x Arty BN) - BMP 2 
+- - - 223rd Mech Inf Brigade (3x BNs + 1x Arty BN) - BMP 3
+- - - 224th Rocket Artillery BN (GRAD)
 - - 231st Air Defense Division: 
-- - - 312nd Air Defense Regiment, 
-- - - 313th SA-6 BN, 
-- - - 314th SA-11 BN, 
+- - - 313th SA-6 BN 
+- - - 314th SA-11 BN 
 - - - 315th HQ BN
-- - 241st Rocket Artillery Regiment: 412th Heavy Rocket Artillery BN, 413th Heavy Rocket Artillery BN
-- - 243rd Surface to Surface Missile Regiment: 431st HQ platoon, 435th SSM BN, 436th SSM BN
-- - 253rd Logistics Regiment: 531st Logistics BN, 532nd Logistics BN, 534th Medical BN, 535th Medical BN
+- - - 312nd Air Defense Regiment: 
+- - - - 316th ADF BN (attached to 221st Brigade)
+- - - - 317th ADF BN (attached to 223rd Brigade)
+- - 241st Rocket Artillery Regiment: 
+- - - 412th Heavy Rocket Artillery BN (MLRS)
+- - - 413th Heavy Rocket Artillery BN (MLRS)
+- - 243rd Surface to Surface Missile Regiment: 
+- - - 431st HQ platoon 
+- - - 435th SSM BN (SCUD)
+- - - 436th SSM BN (SCUD)
+- - 253rd Logistics Regiment: 
+- - - 531st Logistics BN 
+- - - 532nd Logistics BN 
+- - - 534th Medical BN 
+- - - 535th Medical BN
 
 
 #### Air
