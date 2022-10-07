@@ -1,12 +1,11 @@
-# TRMT-Brief
-Training mission Turkey briefing page
+# Training mission Turkey briefing page (TRMT)
 
 Here information about the training mission Turkey (TRMT) will be hosted.
 
 This mission will facilitate:
 - Green Sword
 - Blue Sword
-- Red Sword
+- Red Sword 
 
 
 Factions:
