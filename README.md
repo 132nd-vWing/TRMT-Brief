@@ -11,8 +11,9 @@ Red Sword
 
 Factions:
 Blue : Friendly forces
-Red: Capable enemy (Peer threat)
-Orange: Lower threat enemy (country with insurgents)
+Red: Capable enemy (Peer threat) (WEST)
+Orange: Capable enemy (Peer threat) (EAST)
+Gray: Insurgents
 
 
 ## RANGES
