@@ -34,6 +34,7 @@ Country Orange is a peer threat armed with eastern military equipment.
 
 
 #### Air
+The Orange Air Force have 3 squadrons that rotate the duty of beeing CAP and QRA from XXX Airfield.
 - 26th Squadron: F/A-18C
 - 27th Squadron: F-14
 - 28th Squadron: F-16
