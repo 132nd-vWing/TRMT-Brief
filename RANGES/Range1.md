@@ -14,27 +14,28 @@ The following are the mission settings upon starting a CAS training scenario. So
 
 ## CAS SCENARIO #1
 
+### SITUATION:
 
-SITUATION:
-•	Insurgents have seized control of two villages allowing them to block a critical MSR
-•	Eastern village: 36S XG533/122 / Elev.2180ft
-•	Western village: 36S XG 522/130 / Elev.2390ft
-Enemy:
-•	Insurgents using technical as well as stolen Syrian army equipment (BRDMs, BMPs and T55s as well as short range air defense systems
-Friendlies:
-•	JTAC position at 36S XG538/139 / Elev.2280ft
-•	TF "HAMMER" (STRYKER IFVs) staging in a village East of JTAC position
-•	Artillery support: a 120mm mortar battery, collocated with TF HAMMER's staging area
+1) Insurgents have seized control of two villages allowing them to block a critical MSR
+2) Eastern village: 36S XG533/122 / Elev.2180ft
+3) Western village: 36S XG 522/130 / Elev.2390ft
 
-Mission:
-•	Shape enemy defenses in the villages to facilitate safe approach of allied TF 
-•	Advance TF to secure the villages
-•	Advance to vantage points West and South of the villages to secure MSRs leading into the villages 
+### Enemy:
+Insurgents using technicals as well as stolen Syrian army equipment (BRDMs, BMPs and T55s as well as short range air defense systems
 
+### Friendlies:
+1) JTAC position at 36S XG538/139 / Elev.2280ft
+2) TF "HAMMER" (STRYKER IFVs) staging in a village East of JTAC position
+3) Artillery support: a 120mm mortar battery, collocated with TF HAMMER's staging area
 
+### Mission:
+1) Shape enemy defenses in the villages to facilitate safe approach of allied TF 
+2) Advance TF to secure the villages
+3) Advance to vantage points West and South of the villages to secure MSRs leading into the villages 
 
+![image](https://user-images.githubusercontent.com/42184209/194570796-89c73459-ae95-4cb5-9d19-8a8cb5f9d112.png)
+![image](https://user-images.githubusercontent.com/42184209/194570687-f9500347-bfb0-41d2-9cd7-b13dcffe993d.png)
 
-## TBDTBD
 
 
 ## Back
