@@ -14,25 +14,25 @@ The following are the mission settings upon starting a CAS training scenario. So
 
 ### Airspace control measures (ACPs)
 
-CPs TBD
+**CPs TBD**
 
-HA TBD
+**HA TBD**
 
-IPs TBD
+**IPs TBD**
 
 
 ## CAS SCENARIO #1
 ### SITUATION:
 
 1) Insurgents have seized control of two villages allowing them to block a critical MSR
-2) Eastern village: 36S XG533/122 / Elev.2180ft
-3) Western village: 36S XG 522/130 / Elev.2390ft
+2) **Eastern village:** N37°08.6' E034°43.6' / 36S XG533122 / Elev.2180ft
+3) **Western village:** N37°09.1' E034°42.8' / 36S XG522130 / Elev.2390ft
 
 ### Enemy:
 Insurgents using technicals as well as stolen Syrian army equipment (BRDMs, BMPs and T55s as well as short range air defense systems
 
 ### Friendlies:
-1) JTAC position at 36S XG538/139 / Elev.2280ft
+1) JTAC position at N37°09.5' E034°43.9' / 36S XG538139 / Elev.2280ft
 2) TF "HAMMER" (STRYKER IFVs) staging in a village East of JTAC position
 3) Artillery support: a 120mm mortar battery, collocated with TF HAMMER's staging area
 
