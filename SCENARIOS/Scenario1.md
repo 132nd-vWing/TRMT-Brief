@@ -8,6 +8,7 @@
 ## Situation
 
 ## Enemy situation
+- [Country Orange Order Of Battle (OOB)](/TRMT-Brief/ENEMY/Orange.html) 
 
 ## Friendly situation
 
