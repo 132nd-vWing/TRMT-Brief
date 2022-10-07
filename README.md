@@ -13,3 +13,7 @@ Factions:
 Blue : Friendly forces
 Red: Capable enemy (Peer threat)
 Orange: Lower threat enemy (country with insurgents)
+
+
+## RANGES
+[Range 1](/TRMT-Brief/Ranges/Range1.html) | 
