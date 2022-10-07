@@ -16,4 +16,4 @@ Orange: Lower threat enemy (country with insurgents)
 
 
 ## RANGES
-[Range 1](/TRMT-Brief/RANGES/Range1.html) | 
+[Range 1](/TRMT-Brief/RANGES/Range1.html) | [Range 2](/TRMT-Brief/RANGES/Range2.html) | 
