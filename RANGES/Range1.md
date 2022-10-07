@@ -4,7 +4,7 @@
 
 Range 1 is the Western of the two CAS training ranges.
 
-## General range setting
+### General range setting
 The following are the mission settings upon starting a CAS training scenario. Some of settings can be altered for each group by entering TACTICAL COMMANDER or GAME MASTER roles and adjust specific group settings to maximize training effectiveness as needed.
 
 1) All BLUE units and RED units are set to HOLD FIRE (Meaning: won't be shooting at enemy units even if such units enters their range and LOS)
@@ -12,8 +12,16 @@ The following are the mission settings upon starting a CAS training scenario. So
 3) All RED units are set to ALERT STATE RED (Radars and missile turrets are erected and active as they would be seen during a combat situation)
 4) All JTAC-intended units are set - in addition to the above - as INVISIBLE and IMMORTAL (Meaning: Will not attract enemy fires, and will not be harmed even if hit by enemy or friendly fire)
 
-## CAS SCENARIO #1
+### Airspace control measures (ACPs)
 
+CPs TBD
+
+HA TBD
+
+IPs TBD
+
+
+## CAS SCENARIO #1
 ### SITUATION:
 
 1) Insurgents have seized control of two villages allowing them to block a critical MSR
