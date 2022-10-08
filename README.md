@@ -28,3 +28,7 @@ Factions:
 ## Exercise Green Sword scenarios
 - [Scenario 1: Blue vs Orange](/TRMT-Brief/SCENARIOS/Scenario1.html) 
 - [Scenario 2: Blue vs Red](/TRMT-Brief/SCENARIOS/Scenario2.html) 
+
+
+## Admin
+[Airfield information](/TRMT-Brief/PAGES/Airfields.html) | 
