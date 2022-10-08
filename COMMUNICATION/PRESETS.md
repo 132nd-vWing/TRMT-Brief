@@ -4,9 +4,6 @@
 - [F/A-18 Presets](/TRMT-Brief/COMMUNICATIONS/FA18 Presets.pdf)
 - [F-16 Presets](/TRMT-Brief/COMMUNICATIONS/F16 Presets.pdf)
 - [F-14 Presets](/TRMT-Brief/COMMUNICATIONS/F14 Presets.pdf)
-- [KA-50 Presets](/TRMT-Brief/COMMUNICATIONS/KA50 Presets.pdf)
-- [MI-8 Presets](/TRMT-Brief/COMMUNICATIONS/MI8 Presets.pdf)
-- [AJS 37 Presets](/TRMT-Brief/COMMUNICATIONS/AJS 37 Presets.pdf)
 - [AH64 Presets](/TRMT-Brief/COMMUNICATIONS/AH64 Presets.pdf)
 
 
