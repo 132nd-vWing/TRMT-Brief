@@ -5,6 +5,13 @@ Country Orange is a peer threat armed with eastern military equipment.
 
 ### Military structure
 
+#### IADS
+- SA10 BN
+- SA-2 BN
+- SA-3 Site
+- SA-3 Site
+- 2x EWR
+- Point Defense
 
 #### Ground
 - 21st Corps:
