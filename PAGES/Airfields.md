@@ -5,6 +5,8 @@
 - Most airfields use standard DCS AI VHF radiofrequency. This is not used for the following airfields, where the following frequencies are in use: 
 
 ## Blue airfields
+This is the primary blue airfields.
+
 Airfield    | ATIS  | TOWER | TOWER (AI) |
 ----        | ----  | ----  | ----       |
 Incirlik   	| 129.6 | 129.2 | 129.4      |
@@ -13,11 +15,13 @@ Gazintiep   | 120.6 | 120.2 | 120.1      |
 
 <br>
 ## Aggressor airfields
-Airfield    			  | ATIS  | TOWER | TOWER (AI) |
-----       				  | ----  | ----  | ----       |
-Gazipasa (Aggressors)     | 119.6 | 119.2 | 119.25     |
-Sanliurfa (Aggressors)    | 118.6 | 118.2 | 118.4      |
-RAF Akrotori (Aggressors) | 128.6 | 128.2 | 128.00     |
+This is the primary aggressor airfields.
+
+Airfield      | ATIS  | TOWER | TOWER (AI) |
+----       	  | ----  | ----  | ----       |
+Gazipasa      | 119.6 | 119.2 | 119.25     |
+Sanliurfa     | 118.6 | 118.2 | 118.4      |
+RAF Akrotori  | 128.6 | 128.2 | 128.00     |
 
 <br>
 <br>
