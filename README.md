@@ -32,6 +32,6 @@ Factions:
 
 
 ## Admin
-- [Airfield information](/TRMT-Brief/PAGES/Airfields.html) | 
-- [FARP information](/TRMT-Brief/PAGES/Farps.html) | 
-- [Communication and presets](/TRMT-Brief/COMMUNICATION/Presets.html) | 
+- [Airfield information](/TRMT-Brief/PAGES/Airfields.html) 
+- [FARP information](/TRMT-Brief/PAGES/Farps.html) 
+- [Communication and presets](/TRMT-Brief/COMMUNICATION/Presets.html)
