@@ -5,7 +5,7 @@
 - Most airfields use standard DCS AI VHF radiofrequency. This is not used for the following airfields, where the following frequencies are in use: 
 
 ## Blue airfields
-This is the primary blue airfields.
+
 
 Airfield    | ATIS  | TOWER | TOWER (AI) |
 ----        | ----  | ----  | ----       |
@@ -15,7 +15,7 @@ Gazintiep   | 120.6 | 120.2 | 120.1      |
 
 <br>
 ## Aggressor airfields
-This is the primary aggressor airfields.
+
 
 Airfield      | ATIS  | TOWER | TOWER (AI) |
 ----       	  | ----  | ----  | ----       |
