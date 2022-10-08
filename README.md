@@ -23,6 +23,7 @@ Factions:
 [Range 5](/TRMT-Brief/RANGES/Range3.html) | 
 [Range 6](/TRMT-Brief/RANGES/Range3.html) | 
 [Range 7](/TRMT-Brief/RANGES/Range3.html) | 
+[Range 8](/TRMT-Brief/RANGES/Range3.html) | 
 
 
 ## Exercise Green Sword scenarios
