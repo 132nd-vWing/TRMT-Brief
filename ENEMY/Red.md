@@ -1,16 +1,16 @@
-# Country Orange
+# Country Red
 
 ## Description
-Country Orange is a peer threat armed with eastern military equipment.
+Country Red is a peer threat armed with eastern military equipment.
 
 ### Military structure
 
 #### IADS
-- SA10 BN
+- SA5 BN
 - SA-2 BN
-- SA-3 Site
-- SA-3 Site
-- 3x EWR
+- SA-6 Site
+- SA-6 Site
+- 4x EWR
 - Point Defense
 
 #### Ground
@@ -41,14 +41,18 @@ Country Orange is a peer threat armed with eastern military equipment.
 
 
 #### Air
-The Orange Air Force have 3 squadrons that rotate the duty of beeing CAP and QRA from XXX Airfield.
-- 26th Squadron: F/A-18C
-- 27th Squadron: F-14
-- 28th Squadron: F-16
+The Red Air Force have 3 squadrons that rotate the duty of beeing CAP and QRA from Gazipasa Airfield.
+- 16th Squadron: F/A-18C
+- 17th Squadron: F-14
+- 18th Squadron: F-16
+
+The Red Air Force also have a rotating detachement at Akrotiri airbase. 
+Typically one of the squadrons will have a CAP or QRA based out of Akrotiri on a rotational basis when there is heavier threat.
 
 
 #### Sea
-- Country Orange does not have a Navy.
+- Country Red have a Navy consisting of:
+- 1x Cruiser Moscow and 2 x Neustrashimy class ships
 
 ##
 

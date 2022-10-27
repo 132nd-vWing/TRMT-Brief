@@ -10,8 +10,8 @@ This mission will facilitate:
 
 Factions:
 - Blue : Friendly forces
-- Red: Capable enemy (Peer threat) (WEST)
-- Orange: Capable enemy (Peer threat) (EAST)
+- Red: Capable enemy (Peer threat) (WEST)  - [Country Red Order Of Battle (OOB)](/TRMT-Brief/ENEMY/Red.html) 
+- Orange: Capable enemy (Peer threat) (EAST) - [Country Orange Order Of Battle (OOB)](/TRMT-Brief/ENEMY/Orange.html)
 - Gray: Insurgents
 
 
