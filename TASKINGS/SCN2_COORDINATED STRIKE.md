@@ -14,25 +14,25 @@ See Scenario 2
 
 ## Enemy situation
 Red forces have two logistics sites that have been located. Both logistics sites have a SA-6 in point defense.
-
+<br>
 ## Friendly situation
 N/A
-
+<br>
 ## Taskings
-Flight 1: Strike Logistics site 1
-Flight 2: Strike Logistics site 2
-
+Flight 1: Strike Logistics site 1 <br>
+Flight 2: Strike Logistics site 2 <br>
+<br>
 ### Targets
-Coordinates per CombatFlite.
-Logistics Site 1:
+Coordinates per CombatFlite. <br>
+Logistics Site 1: <br>
 - T2.1: Fuel Convoy consisting of 6 vehicles, oriented on a road heading 272 degrees
 - T2.2 Ammunition Convoy consisting of 6 vehicles, oriented on a road heading 274 degrees
-
+<br>
 Logistics Site 2:
 - T2.3 Fuel Convoy consisting of 6 vehicles, oriented on a road heading 248 degrees
 - T2.4 Ammunition Convoy consisting of 6 vehicles, oriented on a road heading 232 degrees
-
-
+<br>
+<br>
 
 
 ## Time sensitive targets
