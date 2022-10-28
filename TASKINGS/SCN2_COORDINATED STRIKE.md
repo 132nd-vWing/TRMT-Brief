@@ -28,6 +28,7 @@ Logistics Site 1: <br>
 - T2.1: Fuel Convoy consisting of 6 vehicles, oriented on a road heading 272 degrees
 - T2.2 Ammunition Convoy consisting of 6 vehicles, oriented on a road heading 274 degrees
 <br>
+
 Logistics Site 2:
 - T2.3 Fuel Convoy consisting of 6 vehicles, oriented on a road heading 248 degrees
 - T2.4 Ammunition Convoy consisting of 6 vehicles, oriented on a road heading 232 degrees
