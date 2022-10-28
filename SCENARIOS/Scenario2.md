@@ -26,7 +26,7 @@
 
 
 ### Strike
-
+- [Coordinated Strike Supply sites](/TRMT-Brief/TASKINGS/SCN2_COORDINATED STRIKE.html) 
 
 ## Time sensitive targets
 - Convoy with 21st Corps Commander (3 star general)

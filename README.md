@@ -35,3 +35,4 @@ Factions:
 - [Airfield information](/TRMT-Brief/PAGES/Airfields.html) 
 - [FARP information](/TRMT-Brief/PAGES/Farps.html) 
 - [Communication and presets](/TRMT-Brief/COMMUNICATION/PRESETS.html)
+- [TRMT CombatFlite file)](/TRMT-Brief/COMBATFLITE/TRMT CombatFlite.cf)
