@@ -21,7 +21,7 @@ The following are the mission settings upon starting a CAS training scenario. So
 **IPs TBD**
 
 
-## CAS SCENARIO #1
+## RANGE-1 CAS SCENARIO #1
 ### SITUATION:
 
 1) Insurgents have seized control of two villages allowing them to block a critical MSR
@@ -45,6 +45,34 @@ Insurgents using technicals as well as stolen Syrian army equipment (BRDMs, BMPs
 ![image](https://user-images.githubusercontent.com/42184209/194570687-f9500347-bfb0-41d2-9cd7-b13dcffe993d.png)
 
 
+## RANGE-1 CAS SCENARIO #2
+### SITUATION:
+
+1) A friendly RECON team is in a concealed position overwatching a valley that's been used by ISIS insurgents to infiltrate into friendly territory and conduct attacks
+2) While in position, the RECON sustained injuries due to an operational accident. The team is unable to EXFIL on its own and so the envalope ready force has been put into alert to advance in force into ISIS held area and recover the RECON
+
+### Enemy:
+Insurgents using technicals as well as stolen Syrian army equipment (BRDMs, BMPs and T55s as well as short range air defense systems.
+On the west side of the river (The bordeR) all the villages are known to harbur ISIS assets. ISIS is assumed to hold additional reserves and support assets in villages further away to the west.
+
+
+### Friendlies:
+1) JTAC position at N37 09.5 / E034 43.9 / 36S XG 538-139 / Elev 2270ft
+2) Task force (TF) "HAMMER" staging in a village at N37 09.9 / E034 45.1 / 36S XG 555-146 / Elev 1730ft. HAMMER composition: Assault team consisting of 1xM1 ABRAMS and 1xATGM STRYKER, and a medical team consisting of STRYKER IFVs and M113 medical APCs
+3) Artillery support: a 120mm mortar battery, collocated with TF HAMMER's staging area
+4) RECON team on a mountainside at N37 07.2 / E034 44.1 / 36S XG 541-097 / Elev 2800ft
+
+### Mission:
+1) Degrade enemy defenses in the villages to facilitate safe approach of allied TF 
+2) TF HAMMER will advance to the EXFIL point
+3) Recover the RECON and fall back to friendly side of the border
+
+### Admin:
+1) EXFIL process is simulated by bringing the HAMMER vehicles in the vicinity of the EXFIL point (the road closest to the RECON position)
+2) RECON units may be used as JTACs / observers to provide targeting / intel.
+
+### MAP TBD
+### MAP TBD
 
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/TRMT-Brief/)
