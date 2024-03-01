@@ -71,8 +71,8 @@ On the west side of the river (The bordeR) all the villages are known to harbur 
 1) EXFIL process is simulated by bringing the HAMMER vehicles in the vicinity of the EXFIL point (the road closest to the RECON position)
 2) RECON units may be used as JTACs / observers to provide targeting / intel.
 
-### MAP TBD
-### MAP TBD
+![image](https://github.com/132nd-vWing/TRMT-Brief/assets/42184209/2ec79d94-5779-467e-8443-754b727ee1f7)
+
 
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/TRMT-Brief/)
